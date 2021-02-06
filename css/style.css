@@ -1,0 +1,13 @@
+.common_height{
+    height: 500px;
+    overflow-y: scroll;
+}
+
+.child_height{
+    height: 120px;
+}
+
+.single_country{
+    align-items: center;
+    display: grid;
+}
